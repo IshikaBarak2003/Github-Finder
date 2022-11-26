@@ -1,4 +1,5 @@
 import React from 'react'
+//About file
 
 function About() {
   return (
